@@ -1,4 +1,4 @@
-# Final_Docker
+# **\[CS 2600\] Final-Docker**
 ## Reference
 [welcome-to-docker](https://hub.docker.com/r/docker/welcome-to-docker)
 
